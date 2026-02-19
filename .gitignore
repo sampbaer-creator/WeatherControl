@@ -1,0 +1,18 @@
+﻿# Visual Studio / VS Code
+.vs/
+.vscode/*.log
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
